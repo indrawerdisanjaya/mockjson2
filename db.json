@@ -1,14 +1,13 @@
 {
-    "posts": [
-        { "id": 1, "title": "Drink 1", "price": "Rp.10000", "image": "https://www.masakapahariini.com/wp-content/uploads/2019/08/boba-2-1024x682.jpg"},
-        {"id":2, "title":"Drink 2", "price":"Rp.20000", "image": "https://www.masakapahariini.com/wp-content/uploads/2019/08/boba-2-1024x682.jpg"},
-        {"id":2, "title":"Drink 3", "price":"Rp.30000", "image": "https://www.masakapahariini.com/wp-content/uploads/2019/08/boba-2-1024x682.jpg"},
-        {"id":2, "title":"Drink 4", "price":"Rp.40000", "image": "https://www.masakapahariini.com/wp-content/uploads/2019/08/boba-2-1024x682.jpg"},
-        {"id":2, "title":"Drink 5", "price":"Rp.50000", "image": "https://www.masakapahariini.com/wp-content/uploads/2019/08/boba-2-1024x682.jpg"},
-        {"id":2, "title":"Drink 6", "price":"Rp.60000", "image": "https://www.masakapahariini.com/wp-content/uploads/2019/08/boba-2-1024x682.jpg"}
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "posts": [
+      { "id": 1, "title": "Vanilla Toping Boba", "price": "Rp.10000", "image": "https://i.pinimg.com/originals/1a/25/0a/1a250ad1445bab00474b135a48bdfd22.jpg"},
+      {"id":2, "title":"Boba Brown Sugar", "price":"Rp.12000", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dpc0yQB_u6YuT_rPaI1ohiLD6fmaU2xeSBljhol0qlBKFz4hcHW5a4C6xMmN20QxhNA&usqp=CAU"},
+      {"id":3, "title":"Matcha Toping Boba", "price":"Rp.11000", "image": "https://www.vitamix.com/media/other/images/Iced-Matcha-Bubble-Tea-470-449.jpg"},
+      {"id":4, "title":"Chocolate Toping Boba", "price":"Rp.15000", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgaoVlS39xwyurCg95clv12Fil94jk1ONjgg&usqp=CAU"},
+      {"id":5, "title":"Taro Toping Boba ", "price":"Rp.16000", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDNRhFU7_XLk_8vaPML7UYrkBGic6kuqsrg&usqp=CAU"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
